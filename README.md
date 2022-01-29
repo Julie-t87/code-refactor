@@ -1,9 +1,11 @@
 # Horiseon
 
 ## purpose
-*refactoring the html and css code to make it more clean 
-*include comments to explain the tags and elements
-*make sure that the links are functioning properly
+This websites educates those who want to increase and enhance the quality of their website so that there is more visibility online.
+
+This is done by taching how to utilize the seaerch search engine optimization, online reputation management and Social medica marketing.
+
+
 
 ## Built with 
 *HTML
@@ -11,6 +13,8 @@
 
 ## wesite
 
+![readme](https://user-images.githubusercontent.com/94236932/151681116-89951bc1-d412-4c0b-b5c3-a9f17bab76a7.png)
+
+
 ## contribution
 Made with ❤️️ by Horiseon
-refactored by Julie Taukei
