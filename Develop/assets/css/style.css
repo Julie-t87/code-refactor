@@ -1,13 +1,17 @@
+/**=universal selector that cann be used for allof the elements of the HTML page is selected.
+box-sizing:border-box is used to set the padding nad border for the website's total width and heigt */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*sets the background color for the body of the webiste */
 body {
     background-color: #d9dcd6;
 }
 
+/*sets space betweent the content and it's border. sets the font, background color and the color for the header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,28 +19,29 @@ body {
     color: #ffffff;
 }
 
+/*sets to display the h1 tag in the header as an inline-level block container and set the font size  */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*sets the seo class color as white*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*sets space, size and position of the nav as well as font and font size*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
-
-.header nav ul {
-    list-style-type: none;
+    
 }
 
 .header nav ul li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
@@ -86,17 +91,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -116,19 +111,7 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
