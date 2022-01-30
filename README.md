@@ -1,9 +1,7 @@
 # Horiseon
 
 ## purpose
-This websites educates those who want to increase and enhance the quality of their website so that there is more visibility online.
-
-This is done by taching how to utilize the seaerch search engine optimization, online reputation management and Social medica marketing.
+This websites that helps those who want to increase and enhance the quality of their website so that there is more visibility online and raise the number of people 
 
 
 
